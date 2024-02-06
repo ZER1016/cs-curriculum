@@ -8,11 +8,17 @@ TagManager:
   - Enemy
   - Axe
   - Spikes
+  - Diamond
+  - MoltenSpikes
+  - AddHealth
+  - Attack
+  - Ground
+  - MovingPlatform
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - ground
   - Water
   - UI
   - 
